@@ -1,0 +1,4 @@
+Write a python program to print the last element from the 2nd dimension.
+import numpy as np
+n=np.array([[1,2,3,4],[6,7,8,9,10]])
+print(Last element from 2nd dimension:n[1,-1])
